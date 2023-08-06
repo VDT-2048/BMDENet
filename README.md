@@ -34,6 +34,9 @@ https://ieeexplore.ieee.org/abstract/document/10171982
 [1]  Multiple Graph Affinity Interactive Network and A Variable Illumination Dataset for RGBT Image Salient Object Detection [J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(7), 3104-3118.
 https://github.com/huanglm-me/VI-RGBT1500
 
+[2]  Thermal images-aware guided early fusion network for cross-illumination RGB-T salient object detection[J]. Engineering Applications of Artificial Intelligence, 2023, 118: 105640.
+https://github.com/VDT-2048/TAGFNet
+
 # Related Survey
 RGB-T Image Analysis Technology and Application: A Survey [J]. Engineering Applications of Artificial Intelligence,  2023, 120, 105919.
 https://www.sciencedirect.com/science/article/abs/pii/S0952197623001033
