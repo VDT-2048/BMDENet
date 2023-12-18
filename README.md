@@ -10,6 +10,9 @@ The dataset and code are available at:https://pan.baidu.com/s/1-hEbM0sRSAfpWH1QL
 # Paper
 https://ieeexplore.ieee.org/abstract/document/10130632
 
+[2023-BMDENet Bi-Directional Modality Difference Elimination Network for Few-Shot RGB-T Semantic Segmentation.pdf](https://github.com/VDT-2048/BMDENet/files/13700321/2023-BMDENet.Bi-Directional.Modality.Difference.Elimination.Network.for.Few-Shot.RGB-T.Semantic.Segmentation.pdf)
+
+
 # Citation
 Y. Zhao, K. Song, Y. Zhang and Y. Yan, "BMDENet: Bi-directional Modality Difference Elimination Network for Few-shot RGB-T Semantic Segmentation," in IEEE Transactions on Circuits and Systems II: Express Briefs, doi: 10.1109/TCSII.2023.3278941.
 
